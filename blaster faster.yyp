@@ -114,7 +114,7 @@
             "Key": "1e30207e-41c1-4b61-a3bb-75e0050fdd3d",
             "Value": {
                 "id": "062f1431-6b2c-4aa8-a763-76a7035b8c59",
-                "resourcePath": "sprites\\s_armor_strip5\\s_armor_strip5.yy",
+                "resourcePath": "sprites\\s_armor\\s_armor.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -218,7 +218,7 @@
             "Key": "30a54bff-120f-4dba-ab26-100be26407e1",
             "Value": {
                 "id": "33a8c3fd-5954-480b-a9cc-41ac2812cd29",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\r_space\\r_space.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -244,6 +244,14 @@
                 "id": "e0e9c4a2-e734-46b1-991e-c4bfb52cec74",
                 "resourcePath": "datafiles_yy\\s_explosion_particle\\layers\\b5b37615-d8c4-46d1-a334-75bd3366766a\\4c75ad8f-6c25-48dc-b502-22785a97a9cc.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "32aa3ec6-cd5b-496c-b63d-458326a52a86",
+            "Value": {
+                "id": "eee23465-7d8a-4684-a9f2-7795afb8c170",
+                "resourcePath": "sprites\\s_laser\\s_laser.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -556,6 +564,14 @@
                 "id": "81196432-fcd4-4895-a2f9-87f443195c83",
                 "resourcePath": "options\\ios\\options_ios.yy",
                 "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "87e49948-989b-40a1-8bae-e9a43bba8a28",
+            "Value": {
+                "id": "c4eb1c6a-d49d-4fe5-b925-94572ea218a4",
+                "resourcePath": "objects\\o_player_ship\\o_player_ship.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1034,7 +1050,7 @@
             "Key": "ed5c7f28-4c95-41bb-9a49-e6c344fae54e",
             "Value": {
                 "id": "2bfb1cad-aba2-4a8d-92ec-038ca15ac852",
-                "resourcePath": "sprites\\s_button_strip2\\s_button_strip2.yy",
+                "resourcePath": "sprites\\s_button\\s_button.yy",
                 "resourceType": "GMSprite"
             }
         },

@@ -2,7 +2,7 @@
     "id": "1e30207e-41c1-4b61-a3bb-75e0050fdd3d",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "s_armor_strip5",
+    "name": "s_armor",
     "For3D": false,
     "HTile": false,
     "VTile": false,
